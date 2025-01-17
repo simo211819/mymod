@@ -1,2 +1,3 @@
-Prima modifica a README.md
-Seconda prova
+Prima modifica a README.md // fallita
+Seconda prova // riuscita -> git push
+TENTATIVO git pull
